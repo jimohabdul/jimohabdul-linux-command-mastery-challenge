@@ -1,0 +1,5 @@
+INFO: Server started
+DEBUG: Loading config
+INFO: Connection established
+ERROR: Failed to connect to database
+INFO: Retrying connection...
