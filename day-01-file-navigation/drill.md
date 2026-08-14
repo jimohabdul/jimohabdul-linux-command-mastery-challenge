@@ -1,7 +1,9 @@
-# Day 1 Practice Drill Execution
+# Day 1 Drill: Filesystem Navigation
 
-* Printed current working directory using `pwd`.
-* Navigated to system logs using absolute path: `cd /var/log`
-* Returned to user home directory using: `cd ~`
-* Toggled back to previous path using: `cd -`
-* Listed contents in long, human-readable format using: `ls -lh`
+## Objective
+Practice navigating the Linux filesystem using absolute and relative paths, exploring directory structures, and locating files.
+
+## Execution Steps
+1. Verified current location using `pwd`.
+2. Listed directory contents using `ls -la`.
+3. Navigated through home and root directories using `cd`.
