@@ -1,10 +1,9 @@
-# Day 5 Drill: Searching Files & Content
+# Day 5 Drill: Links and Tree Structures
 
 ## Objective
-Practice locating specific files using `find` and filtering text patterns across directories using `grep`.
+Practice creating symbolic and hard links, inspecting inode relationships, and visualizing directory structures using `tree`.
 
 ## Execution Steps
-1. Created a nested structure with sample configuration and log files.
-2. Used `find` to locate files matching specific naming patterns and extensions.
-3. Used `grep -r` to search for specific error tags and text patterns across multiple files.
-4. Checked command binary paths using `which`.
+1. Created sample files and established symbolic links using `ln -s`.
+2. Explored hard links and examined how inode numbers map to file data.
+3. Visualized directory hierarchies using the `tree` utility.

@@ -1,7 +1,7 @@
-# Day 5: Searching Files and Content
+# Day 5: Paths, Links & Tree Structures (Checkpoint)
 
 ## Commands Covered Today
-- `find` - Search for files in a directory hierarchy based on criteria like name (`-name`), type (`-type f`), or size.
-- `grep` - Search for matching patterns or regular expressions inside text files (`-r` for recursive search).
-- `locate` - Instantly look up files by name using a system-maintained database.
-- `which` - Show the full path of shell commands.
+- `ln -s` - Create symbolic (soft) links pointing to files or directories.
+- `ln` - Create hard links pointing directly to inode data.
+- `tree` - Display directory structures in a visual tree diagram format.
+- `pwd -P` - Display the physical path ignoring symbolic links.
