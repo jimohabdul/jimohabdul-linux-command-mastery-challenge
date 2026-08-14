@@ -18,4 +18,4 @@ Terminal screenshots and transcript logs documenting the successful drill execut
 
 ## Related
 * Previous day: [../day-02-file-operations/](../day-02-file-operations/)
-* Next day: ../day-04-file-permissions/
+* Next day: ../day-04-filesystem-search/

@@ -34,4 +34,4 @@ Terminal screenshots and transcript logs documenting the successful drill execut
 
 ## Related
 * Previous day: [../day-01-file-navigation/](../day-01-file-navigation/)
-* Next day: ../day-03-file-viewing/
+* Next day: ../day-03-file-inspection/

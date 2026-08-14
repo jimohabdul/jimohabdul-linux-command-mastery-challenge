@@ -17,5 +17,5 @@ Combining `find` with recursive `grep` makes it remarkably easy to audit entire 
 Terminal screenshots and transcript logs documenting the successful drill execution are stored in the `evidence/` directory.
 
 ## Related
-* Previous day: [../day-04-file-permissions/](../day-04-file-permissions/)
+* Previous day: [../day-04-filesystem-search/](../day-04-filesystem-search/)
 * Next day: ../day-06-system-monitoring/

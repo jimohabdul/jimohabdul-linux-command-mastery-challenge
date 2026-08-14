@@ -17,5 +17,5 @@ How numeric (octal) permissions like `755` and `644` translate directly into per
 Terminal screenshots and transcript logs documenting the successful drill execution are stored in the `evidence/` directory.
 
 ## Related
-* Previous day: [../day-03-file-viewing/](../day-03-file-viewing/)
-* Next day: ../day-05-searching-files/
+* Previous day: [../day-03-file-inspection/](../day-03-file-inspection/)
+* Next day: ../day-05-links-checkpoint/
