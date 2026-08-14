@@ -18,7 +18,7 @@ You can connect with me on [LinkedIn](https://linkedin.com).
 | 3 | Reading & Inspecting Files | ✅ Complete | [day-03-file-inspection](day-03-file-inspection) |
 | 4 | Searching the Filesystem | ✅ Complete | [day-04-filesystem-search](day-04-filesystem-search) |
 | 5 | Paths, Links & Tree Structures (Checkpoint) | ✅ Complete | [day-05-links-checkpoint](day-05-links-checkpoint) |
-| 6 | Reading & Setting Permissions | ⏳ Pending | [day-06-permissions](day-06-permissions) |
+| 6 | Reading & Setting Permissions | ✅ Complete | [day-06-permissions](day-06-permissions) |
 | 7 | Ownership & Special Bits | ⏳ Pending | [day-07-ownership](day-07-ownership) |
 | 8 | Privilege Escalation & Identity | ⏳ Pending | [day-08-privilege-escalation](day-08-privilege-escalation) |
 | 9 | Integrity, Encryption & Firewalling | ⏳ Pending | [day-09-integrity-firewall](day-09-integrity-firewall) |
