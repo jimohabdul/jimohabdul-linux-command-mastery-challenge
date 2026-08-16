@@ -6,16 +6,15 @@ Follow these steps to complete your hands-on practice drill for Day 8.
 
 ### Step 1: Privilege Escalation & Recovery
 1. Attempt to read a restricted system log file that triggers a permission error:
-'''bash
-tail /var/log/syslog
-2. Instantly re-run the command with superuser privileges using the quick-recall syntax:
-Bash
+   ```bash
+   tail /var/log/syslog
+1. Instantly re-run the command with superuser privileges using the quick-recall syntax:
+sudo !!
 sudo !!
 
-## Step 2: Identity & Policy Inspection
+## Step 2: Identify & Policy Inspection
 1. Inspect your active session identity:
-Bash
 whoami && id
+
 2. Review your authorized administrative capabilities:
-Bash
 sudo -l
