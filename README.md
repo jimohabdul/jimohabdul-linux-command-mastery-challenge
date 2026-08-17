@@ -55,5 +55,9 @@ I'm documenting the journey on LinkedIn as I go, sharing what I learn, the chall
 * [Day 3 — Reading & Inspecting Files](day-03-file-inspection)
 * [Day 4 — Searching the Filesystem](day-04-filesystem-search)
 * [Day 5 — Paths, Links & Tree Structures](day-05-links-checkpoint)
+* [Day 6 — Reading & Setting Permissions](day-06-permissions).
+* [Day 7 — Ownership & Special Bits](day-07-ownership)
+* [Day 8 — Privilege Escalation & Identity](day-08-privilege-escalation)
+* [Day 9 — [Integrity, Encryption & Firewalling](day-09-integrity-firewall)
 
 I'll keep this section updated as I progress through the 30 days.
