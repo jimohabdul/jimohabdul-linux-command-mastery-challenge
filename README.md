@@ -19,9 +19,9 @@ You can connect with me on [LinkedIn](https://linkedin.com).
 | 4 | Searching the Filesystem | ✅ Complete | [day-04-filesystem-search](day-04-filesystem-search) |
 | 5 | Paths, Links & Tree Structures (Checkpoint) | ✅ Complete | [day-05-links-checkpoint](day-05-links-checkpoint) |
 | 6 | Reading & Setting Permissions | ✅ Complete | [day-06-permissions](day-06-permissions) |
-| 7 | Ownership & Special Bits | ⏳ Pending | [day-07-ownership](day-07-ownership) |
-| 8 | Privilege Escalation & Identity | ⏳ Pending | [day-08-privilege-escalation](day-08-privilege-escalation) |
-| 9 | Integrity, Encryption & Firewalling | ⏳ Pending | [day-09-integrity-firewall](day-09-integrity-firewall) |
+| 7 | Ownership & Special Bits | ✅ Complete | [day-07-ownership](day-07-ownership) |
+| 8 | Privilege Escalation & Identity | ✅ Complete | [day-08-privilege-escalation](day-08-privilege-escalation) |
+| 9 | Integrity, Encryption & Firewalling | ✅ Complete | [day-09-integrity-firewall](day-09-integrity-firewall) |
 | 10 | Security Checkpoint & Audit | ⏳ Pending | [day-10-security-audit-checkpoint](day-10-security-audit-checkpoint) |
 | 11 | Package Management Fundamentals | ⏳ Pending | [day-11-package-management](day-11-package-management) |
 | 12 | Advanced Package Management | ⏳ Pending | [day-12-advanced-packages](day-12-advanced-packages) |
