@@ -1,0 +1,8 @@
+[SECURITY AUDIT REPORT - DAY 10 CHECKPOINT]
+
+*Active Users (who/w): Checked current terminal sessions.
+* Login History (last): Verified recent user log-ins from wtmp.
+* Inactive Accounts (lastlog): Identified system accounts with "Never logged in".
+* SUID Audit (find): Mapped system binaries with elevated execution rights.
+* Sudo History: Filtered shell history for administrative trace logs.
+Status: Audit completed successfully.
