@@ -22,9 +22,9 @@ You can connect with me on [LinkedIn](https://linkedin.com).
 | 7 | Ownership & Special Bits | ✅ Complete | [day-07-ownership](day-07-ownership) |
 | 8 | Privilege Escalation & Identity | ✅ Complete | [day-08-privilege-escalation](day-08-privilege-escalation) |
 | 9 | Integrity, Encryption & Firewalling | ✅ Complete | [day-09-integrity-firewall](day-09-integrity-firewall) |
-| 10 | Security Checkpoint & Audit | ⏳ Pending | [day-10-security-audit-checkpoint](day-10-security-audit-checkpoint) |
-| 11 | Package Management Fundamentals | ⏳ Pending | [day-11-package-management](day-11-package-management) |
-| 12 | Advanced Package Management | ⏳ Pending | [day-12-advanced-packages](day-12-advanced-packages) |
+| 10 | Security Checkpoint & Audit |  ✅ Complete | [day-10-security-audit-checkpoint](day-10-security-audit-checkpoint) |
+| 11 | Creating & Managing Users |  ✅ Complete | [day-11-user-management](day-11-user-management) |
+| 12 | Groups & Access Circles  | ⏳ Pending | [day-12-groups](day-12-groups) |
 | 13 | Users & Groups Management | ⏳ Pending | [day-13-users-groups](day-13-users-groups) |
 | 14 | System Services & Daemons | ⏳ Pending | [day-14-system-services](day-14-system-services) |
 | 15 | Provisioning & Packages Checkpoint | ⏳ Pending | [day-15-provisioning-checkpoint](day-15-provisioning-checkpoint) |
@@ -58,6 +58,8 @@ I'm documenting the journey on LinkedIn as I go, sharing what I learn, the chall
 * [Day 6 — Reading & Setting Permissions](day-06-permissions).
 * [Day 7 — Ownership & Special Bits](day-07-ownership)
 * [Day 8 — Privilege Escalation & Identity](day-08-privilege-escalation)
-* [Day 9 — [Integrity, Encryption & Firewalling](day-09-integrity-firewall)
+* [Day 9 — Integrity, Encryption & Firewalling](day-09-integrity-firewall)
+* [Day 10 — Security Checkpoint & Audit](day-10-security-audit-checkpoint)
+* [Day 11 — Creating & Managing Users](day-11-user-management)
 
 I'll keep this section updated as I progress through the 30 days.
