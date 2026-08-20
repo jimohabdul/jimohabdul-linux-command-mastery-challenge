@@ -1,0 +1,8 @@
+[GROUPS & ACCESS AUDIT - DAY 12]
+
+* Group Creation (groupadd devs): Access circle established.
+* Membership Provisioning (gpasswd -a): Added alice and bob.
+* Database Verification (getent group devs): Confirmed active members.
+* Membership Revocation (gpasswd -d): Removed bob.
+* Teardown (groupdel devs): Successfully purged group structure.
+Status: Drill completed successfully.
