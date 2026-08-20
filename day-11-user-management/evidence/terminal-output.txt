@@ -1,0 +1,8 @@
+[USER MANAGEMENT AUDIT - DAY 11]
+
+User Creation (useradd -m -s /bin/bash): Account provisioned with home folder.
+Password Configuration (passwd): Authentication tokens applied.
+Group Assignment (usermod -aG): Appended account to secondary group.
+Account Renaming (usermod -l): Successfully migrated login handle.
+Teardown (userdel -r): Safely purged user and home directory contents.
+Teardown (userdel -r): Safely purged user and home directory contents.
